@@ -1,6 +1,7 @@
 # rock-paper-scissors
+Basic RPS game. 
 
-#Rules
+# Rules
 
 Rock: wins against scissors, loses to paper and stalemates against itself
 Paper wins against Rock, loses to scissors and stalemates against itself
